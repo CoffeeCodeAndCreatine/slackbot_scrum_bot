@@ -1,4 +1,4 @@
-# ScrumBot
+# slackbot_scrum_bot
 A simple python CLI that can be used to save and format scrum notes, and then post them directly to a slack channel.
 
 ## Main Features
@@ -9,7 +9,7 @@ A simple python CLI that can be used to save and format scrum notes, and then po
 ## Explanation of Files
 1. history_json.json: A file used to store your past entries so that the CLI can give you reminders of what you worked on the previous day.
 2. history_text.json: A file used to store your past entries in plain text for easy reading should you wish to see what you have worked on in the past.
-3. scrum_bot.py: Source code for the python CLI.
+3. slackbot_scrum_bot.py: Source code for the python CLI.
 4. configs.json: Configuration file.  
 
 ## How to Configure the CLI
