@@ -1,0 +1,9 @@
+{
+  "slack_bot_token": "",
+  "channel_token": "",
+  "user_name": "",
+  "number_prefix": "   ",
+  "number_wrap": "50",
+  "bullet_prefix": "    ",
+  "bullet_wrap": "50"
+}
