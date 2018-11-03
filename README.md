@@ -35,7 +35,6 @@ The CLI will walk you through the configuration on the first launch of the CLI. 
 7. bullet_wrap: This is how many characters will be printed before the table wraps, I suggest using 50, that way in slack you can split screen and still have things formatted nicely, but you are welcome to configure as you see fit.
 
 
-A bit 
 ## How to Run Python CLI
 ```bash
 pip3 install -r requirements.txt
