@@ -43,4 +43,4 @@ python3 scrum_bot.py
 ```
 
 ## How To Video
-[Getting started with slackbot_scrum_bot]()
+[Coming Soon]()
