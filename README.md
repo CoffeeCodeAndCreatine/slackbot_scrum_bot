@@ -42,4 +42,4 @@ python3 scrum_bot.py
 ```
 
 ## How To Video
-[Coming Soon]()
+[Coming Soon](https://www.youtube.com/watch?v=YF38NG8OW28)
